@@ -125,7 +125,7 @@ export default function Navbar() {
             />
           </svg>
           <span className="text-xl font-bold text-blue-600">
-            VisuAlgo - Sorting & Searching Visualizer
+            VisuAlgo
           </span>
         </Link>
 
