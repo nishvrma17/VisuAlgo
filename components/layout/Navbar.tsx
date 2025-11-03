@@ -140,7 +140,7 @@ export default function Navbar() {
             </NavLink>
           ))}
           <NavLink
-            href="https://github.com/Scc33/algorithm-visualizer"
+            href="https://github.com/nishvrma17/algorithm-visualizerr"
             active={false}
           >
             <span className="sr-only">GitHub</span>
@@ -150,7 +150,7 @@ export default function Navbar() {
 
         <div className="flex items-center md:hidden">
           <a
-            href="https://github.com/Scc33/algorithm-visualizer"
+            href="https://github.com/nishvrma17/algorithm-visualizerr"
             target="_blank"
             rel="noopener noreferrer"
             className="text-gray-500 hover:text-gray-700 mr-4"
