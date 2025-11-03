@@ -4,9 +4,9 @@ export default function Footer() {
   return (
     <footer className="bg-white">
       <div className="max-w-7xl mx-auto py-6 px-4 sm:px-6 flex items-center justify-between lg:px-8">
-        <a href="https://seancoughlin.me">
+        <a href="https://github.com/nishvrma17/">
           <span className="text-center text-sm text-gray-500">
-            &copy; {new Date().getFullYear()} Sean Coughlin
+            &copy; {new Date().getFullYear()} Nishtha Verma
           </span>
         </a>
         <div className="flex justify-center space-x-6 md:order-2">
@@ -17,7 +17,7 @@ export default function Footer() {
             </span>
           </Link>
           <a
-            href="https://portfolio.seancoughlin.me"
+            href="https://nishvrma17.github.io/personal-portfolio/"
             className="text-gray-400 hover:text-gray-500"
           >
             <span className="sr-only">Portfolio</span>
