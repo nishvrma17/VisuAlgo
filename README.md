@@ -1,6 +1,6 @@
-# Algorithm Visualizer
+# VisuAlgo - Sorting and Searching Visualizer
 
-An interactive web application for learning algorithms through step-by-step visual explanations. This project helps make abstract computer science concepts concrete and intuitive.
+A modern web app to visualize how sorting and searching algorithms work step by step with animations. This project helps make abstract computer science concepts concrete and intuitive.
 
 ## 🔍 Overview
 
@@ -111,5 +111,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 🙏 Acknowledgments
 
-- Built and maintained by [Sean Coughlin](https://seancoughlin.me)
+- Built and maintained by [Nishtha verma]([https://nishvrma17.github.io/personal-portfolio/])
 - Inspired by the need for better visual learning tools for computer science education
