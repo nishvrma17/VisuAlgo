@@ -2,6 +2,9 @@
   "name": "algorithm-visualizer",
   "version": "0.1.0",
   "private": true,
+  "description": "A web-based algorithm visualizer for sorting and searching algorithms.",
+  "author": "Nishtha Verma",
+  "license": "MIT",
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "next build",
