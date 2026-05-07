@@ -37,7 +37,7 @@ Each algorithm includes:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Scc33/algorithm-visualizer.git
+git clone https://algorithm-visualizerr.vercel.app
 cd algorithm-visualizer
 ```
 
